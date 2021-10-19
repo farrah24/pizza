@@ -1,1 +1,4 @@
-
+Order the pizza.
+Wait for the delivery.
+Pay the delivery driver
+Enjoy the pizza!
